@@ -1,40 +1,31 @@
-{
+{   "PickingOrderNumber":"12345",
+  "Progress":"0",
+  "receivedWMSTime":"0",
+  "AddresseeId":"238940",
+  "PickPositions":{      "PickPositionNumber":"20",
+    "PickData":{
+      "Quantity":"3",
+      "ItemId":"4",
+      "PickPositionStatus":"not started",
+      "StorageBinLocation":"A98734"
 
-  "PickingOrderNumber": "12345",
-
-  "Progress": "0",
-
-  "receivedWMSTime": "0",
-
-  "PickPositions": {
-
-    "PickPositionNumber": "20",
-      "PickData": {
-        "Quantity": "3",
-        "ItemId": "4",
-        "PickPositionStatus": "not started",
-        "StorageBinLocation": "A98734"
-      },
-
-    "PickPositionNumber": "30",
-    "PickData": {
-      "Quantity": "3",
-      "ItemId": "4",
-      "PickPositionStatus": "not started",
-      "StorageBinLocation": "A98734"
     },
+    "PickPositionNumber":"30",
+    "PickData":{
+      "Quantity":"3",
+      "ItemId":"4",
+      "PickPositionStatus":"not started",
+      "StorageBinLocation":"A98734"
 
-    "PickPositionNumber": "40",
-    "PickData": {
-      "Quantity": "3",
-      "ItemId": "4",
-      "PickPositionStatus": "not started",
-      "StorageBinLocation": "A98734"
+    },
+    "PickPositionNumber":"40",
+    "PickData":{
+      "Quantity":"3",
+      "ItemId":"4",
+      "PickPositionStatus":"not started",
+      "StorageBinLocation":"A98734"
+
     }
+
   }
-
-  "AddresseeId": "238940",
-
 }
-
-
